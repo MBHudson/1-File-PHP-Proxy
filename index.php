@@ -1,8 +1,6 @@
 <?php
 /*
-miniProxy - A simple PHP web proxy. <https://github.com/joshdick/miniProxy>
-Written and maintained by Joshua Dick <http://joshdick.net>.
-miniProxy is licensed under the GNU GPL v3 <http://www.gnu.org/licenses/gpl.html>.
+
 */
 
 /****************************** START CONFIGURATION ******************************/
